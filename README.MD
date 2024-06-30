@@ -20,7 +20,7 @@
 
 4. Next task is about to retrive the file from the folder. we can acheive this by using get method.
 
-    1. Use this http://localhost:3000/folder/:folderName server to retrieve the file from the folder. For instance, my folder name is Nodejs, so I will give the route as /folder/Nodejs.
+    1. Use this http://localhost:3000/folder/:folderName server to retrieve the file from the folder. For instance, my folder name is Nodejs, so I will add the route as /folder/Nodejs.
 
 5. Run the server using npm run dev.
 
