@@ -24,7 +24,7 @@
 
 5. Run the server using npm run dev.
 6. Endpoint for creating folder with file and content: http://localhost:3000/create_folder_file - Use post method.
-7. Endpoint for retrieving the file from the folder: http://localhost:3000/folder/:folderName
+7. Endpoint for retrieving the file from the folder: http://localhost:3000/folder/:folderName - use get method.
 
 
 
