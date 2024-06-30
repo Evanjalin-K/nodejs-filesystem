@@ -23,7 +23,6 @@
               "folderName": "Nodejs"
 
                 }
-                
              ```
 
 3. In the task, I have given a folder name as Nodejs and the file name will be the current date-time.txt and the content will be the current timestamp.
