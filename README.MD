@@ -17,13 +17,13 @@
 
 2. Create a new file by using URL http://localhost:3000/file We can achieve this by using the post method, but you should give the folder name in the request, as mentioned below:
 
-        ```
-          {
+             ```
+               {
 
-         "folderName": "Nodejs"
+              "folderName": "Nodejs"
 
-          }
-        ```
+                }
+             ```
 
 3. In the task, I have given a folder name as Nodejs and the file name will be the current date-time.txt and the content will be the current timestamp.
 
