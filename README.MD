@@ -6,12 +6,15 @@
  
    1. Use this JSON format to create the folder:
 
+           ```
           {
 
          "folderName": "Nodejs"
 
           }
-          
+          ```
+        
+
 2. Create a new file by using URL http://localhost:3000/file We can achieve this by using the post method, but you should give the folder name in the request, as mentioned below:
 
          ```
@@ -28,22 +31,16 @@
 
     1. Use URL http://localhost:3000/get/:folderName to retrieve the file from the folder.
 
-           ```
           http://localhost:3000/get/Nodejs  
 
-           ```
            ```
           {
 
          "folderName": "Nodejs"
 
           }
-          ```
+
+         ```
     2. For getting the data also created folder name is mandatory.
 
 5. Run the server using npm run dev.
-
-
-
-    
-
