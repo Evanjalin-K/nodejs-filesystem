@@ -23,8 +23,8 @@
     1. Use this http://localhost:3000/folder/:folderName server to retrieve the file from the folder. For instance, my folder name is Nodejs, so I will add the route as /folder/Nodejs.
 
 5. Run the server using npm run dev.
-
-
+6. Endpoint for creating folder with file and content: http://localhost:3000/create_folder_file - Use post method.
+7. 6. Endpoint for retrieving the file from the folder: http://localhost:3000/folder/:folderName
 
 
 
