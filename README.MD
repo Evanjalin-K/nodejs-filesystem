@@ -31,15 +31,17 @@
 
     1. Use URL http://localhost:3000/get/:folderName to retrieve the file from the folder.
 
-          http://localhost:3000/get/Nodejs  
+            http://localhost:3000/get/Nodejs  
 
-         ```
-          {
+            ```
+              {
 
-         "folderName": "Nodejs"
+               "folderName": "Nodejs"
 
-          }
-         ```
+               }
+            ```
+ 
+          
     2. For getting the data also created folder name is mandatory.
 
 5. Run the server using npm run dev.
