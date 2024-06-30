@@ -1,6 +1,6 @@
 # NodeJS File System
 
-## **   The task is about to create an API endpoint. Using the post method, we can create a folder, a file and the content of the file **
+## **The task is about to create an API endpoint. Using the post method, we can create a folder, a file and the content of the file **
 
 1. The file name will be the current date-time.txt and the content of the file will contain the current timestamp.
  
