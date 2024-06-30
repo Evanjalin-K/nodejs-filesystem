@@ -1,6 +1,6 @@
 # NodeJS File System
 
-## ** The task is to create an API endpoint to create a folder with a file and content. Also, to retrieve the file from the folder**
+## **The task is to create an API endpoint to create a folder with a file and content. Also, to retrieve the file from the folder**
 
 1. The file name will be the current date-time.txt and the content of the file will be the current timestamp.
  
