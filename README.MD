@@ -33,15 +33,13 @@
 
             http://localhost:3000/get/Nodejs  
 
-            ```
-              {
+         ```
+          {
 
-               "folderName": "Nodejs"
+            "folderName": "Nodejs"
 
-               }
-            ```
- 
-          
+          }
+         ```
     2. For getting the data also created folder name is mandatory.
 
 5. Run the server using npm run dev.
